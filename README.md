@@ -15,3 +15,7 @@
 
 
 https://placepic.ru/wp-content/uploads/2018/11/2-1.jpg
+
+
+
+<code>[logo]: https://placepic.ru/wp-content/uploads/2018/11/2-1.jpg
