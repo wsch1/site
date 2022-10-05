@@ -9,3 +9,7 @@
 <code>![tigr](2-1.jpg "tigr")
 </code>
 
+![Tigr](https://github.com/wsch1/site/raw/main/img/2-1.jpg)
+
+
+https://github.com/wsch1/site/raw/main/img/2-1.jpg
