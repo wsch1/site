@@ -6,5 +6,5 @@
 <code>![tigr](/img/2-1.jpg "Tigr")
 </code>
 
-<code>![tigr](img/2-1.jpg "tigr")
+<code>![tigr](2-1.jpg "tigr")
 </code>
